@@ -74,7 +74,7 @@ As a new data analyst (Peter Pandey), I was responsible for:
 A simplified data model was created linking order, customer, and product-level details to delivery metrics through relationships  
 that enable efficient filtering and analysis in Power BI.
 
-![data_model] (assets/data_model.png)
+![data_model](assets/data_model.png)
 
 ---
 
@@ -83,11 +83,11 @@ that enable efficient filtering and analysis in Power BI.
 The dashboard presents a clear overview of service levels across customers, products, and time.  
 It enables stakeholders to quickly identify problem areas and take corrective action.
 
-![dashboard1] (assets/atliq_sca.png)
+![dashboard1](assets/atliq_sca.png)
 
-![dashboard2] (assets/customers_&_products.png)
+![dashboard2](assets/customers_&_products.png)
 
-![dashboard3] (assets/delay_&_monthly_trends.png)
+![dashboard3](assets/delay_&_monthly_trends.png)
 
 
 ---
@@ -122,3 +122,18 @@ It enables stakeholders to quickly identify problem areas and take corrective ac
 
 This project provides AtliQ Mart with a structured view of its delivery performance and highlights areas needing immediate improvement.  
 These insights can help prevent further customer loss and support data-driven expansion strategies into new markets.
+
+
+That's all about This Project
+
+**ThankYou Very Much**
+
+## 👤 Author
+
+**Nidhi Kachhi**  
+📧 Email:[haldkarnidhi@gmail.com](mailto:haldkarnidhi@gmail.com)   
+
+🌐 GitHub: [github.com/Np2002](https://github.com/Np2002)
+
+
+📎 LinkedIn: [linkedin.com/in/nidhi-kachhi](https://www.linkedin.com/in/nidhi-kachhi/)
